@@ -1,6 +1,7 @@
 ---
 general:
   buildTool: "mta"
+  verbose: true
 service:
   buildToolVersion: "MBTJ11N16" #see SAP Continuous Integration and Delivery service for more build tool version options
 stages:
